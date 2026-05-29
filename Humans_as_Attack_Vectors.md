@@ -55,7 +55,8 @@ Certainly! Here's a detailed explanation of detection and mitigation applicable 
 ### Detection
 
 **Definition:**  
-Defending against threats involves two key tasks: Mitigation and Detection. Mitigation aims to prevent or reduce the chance and impact of attacks, for example by training employees or deploying a good anti-phishing solution. However, no matter how good mitigation measures are, one day they are bypassed. That's where your SOC skills are vital to detect and investigate advanced attacks that slip through:
+Defending against threats involves two key tasks: Mitigation and Detection. Mitigation aims to prevent or reduce the chance and impact of attacks, for example by training employees or deploying a good anti-phishing solution. However, no matter how good mitigation measures are, one day they are bypassed. That's where your SOC skills are vital to detect and investigate advanced attacks that slip through.
+
 Detection is the process of identifying potential security threats, unauthorized activities, or malicious behavior within a system, network, or application. It involves continuous monitoring and analysis to recognize signs of an attack or breach as early as possible.
 
 **Key Components of Detection:**  
